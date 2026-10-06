@@ -1,0 +1,19 @@
+{
+  "name": "chomp",
+  "version": "1.0.0",
+  "description": "A maze chase game to play while Claude works. Opens after a turn runs 20 seconds, or any time with /chomp.",
+  "author": {
+    "name": "Automators+",
+    "url": "https://github.com/automatorsplus"
+  },
+  "homepage": "https://github.com/automatorsplus/chomp-mod",
+  "repository": "https://github.com/automatorsplus/chomp-mod",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "mod",
+    "game",
+    "fun"
+  ],
+  "types": "./types/index.d.ts"
+}

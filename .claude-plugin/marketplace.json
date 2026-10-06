@@ -1,0 +1,16 @@
+{
+  "name": "chomp-mod",
+  "description": "Chomp, a Claude Code mod from the Automators+ community.",
+  "owner": {
+    "name": "Automators+",
+    "url": "https://github.com/automatorsplus"
+  },
+  "plugins": [
+    {
+      "name": "chomp",
+      "source": "./",
+      "description": "A maze chase game to play while Claude works. Opens after a turn runs 20 seconds, or any time with /chomp.",
+      "version": "1.0.0"
+    }
+  ]
+}
